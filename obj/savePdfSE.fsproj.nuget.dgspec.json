@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj",
+        "projectName": "savePdfSE",
+        "projectPath": "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj",
+        "packagesPath": "C:\\Users\\Slimane\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Slimane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            },
+            "Interop.SolidEdge": {
+              "target": "Package",
+              "version": "[220.2.0, )",
+              "generatePathProperty": true
+            },
+            "SolidEdge.Community": {
+              "target": "Package",
+              "version": "[219.0.0, )",
+              "generatePathProperty": true
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.4.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

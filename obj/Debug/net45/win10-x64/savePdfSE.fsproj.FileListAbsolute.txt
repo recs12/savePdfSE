@@ -1,0 +1,4 @@
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\savePdfSE.exe.config
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.AssemblyInfoInputs.cache
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.AssemblyInfo.fs
+c:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.fsproj.CoreCompileInputs.cache
