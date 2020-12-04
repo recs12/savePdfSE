@@ -4,19 +4,25 @@ Rewriting of the app https://github.com/recs12/save_pdf in F#.
 *)
 
 open System
+open SolidEdgeCommunity
 open SolidEdgeCommunity.Extensions // https://github.com/SolidEdgeCommunity/SolidEdge.Community/wiki/Using-Extension-Methods
 open SolidEdgeFramework
-open SolidEdgeCommunity
 open SolidEdgeDraft
+open SolidEdgePart
+
+
+[<STAThread>]
+[<EntryPoint>]
+SolidEdgeCommunity.OleMessageFilter.Register ();
+
+let pathToMyDesktop:string = @"C:\Users\Slimane\Desktop\print\Fpart2.pdf"
+
 
 // Open connection to solidedge.
-
-let app = SolidEdgeCommunity.SolidEdgeUtils.Connect(true, true)
-
-// Connect to the  active doc.
-let document = app.ActiveDocument
+let app:SolidEdgeFramework.Application = SolidEdgeCommunity.SolidEdgeUtils.Connect(true, true)
 
 printfn "Active document type: %A" app.ActiveDocumentType
+
 
 // Get the type of document: is it an assembly, part, sheet, draft
 let (|Draft|Part|Sheet|Assembly|Unknown|) obj =
@@ -26,15 +32,22 @@ let (|Draft|Part|Sheet|Assembly|Unknown|) obj =
     elif app.ActiveDocumentType = SolidEdgeFramework.DocumentTypeConstants.igSheetMetalDocument then Sheet
     else Unknown
 
-let pathToMyDesktop = @"C:\Users\Slimane\Desktop\print\draft.pdf"
+type DraftDoc =
+     interface SolidEdgeFramework.SolidEdgeDocument with 
+         member this.SaveAs(a)
 
-let makePdf draft = draft.SaveAs(NewName=pathToMyDesktop, FileFormat=False)
+let m = new DraftDoc()
+let M = m :> DraftDoc
 
-let PrintAsPDF obj document =
+let makePdf (drawing : SolidEdgeDraft.DraftDocument) pathToMyDesktop =
+    drawing.SaveAs(pathToMyDesktop)
+
+let PrintAsPDF obj =
     match obj with
-    // | Draft -> makePdf document
-    | Draft -> printfn "Save as PDF."
+    | Draft ->
+        makePdf M pathToMyDesktop
+    // | Draft -> printfn "Save as PDF."
     | _ -> printfn "This isn't a draft document, it can't be printed."
 
 
-PrintAsPDF app |> ignore
+PrintAsPDF app|> ignore

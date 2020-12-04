@@ -310,11 +310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj",
+      "projectUniqueName": "c:\\Users\\Slimane\\Desktop\\dev\\code SE PDF\\savePdfSE\\savePdfSE.fsproj",
       "projectName": "savePdfSE",
-      "projectPath": "C:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj",
+      "projectPath": "c:\\Users\\Slimane\\Desktop\\dev\\code SE PDF\\savePdfSE\\savePdfSE.fsproj",
       "packagesPath": "C:\\Users\\Slimane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\obj\\",
+      "outputPath": "c:\\Users\\Slimane\\Desktop\\dev\\code SE PDF\\savePdfSE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

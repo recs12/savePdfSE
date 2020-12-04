@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj": {}
+    "C:\\Users\\Slimane\\Desktop\\dev\\code SE PDF\\savePdfSE\\savePdfSE.fsproj": {}
   },
   "projects": {
-    "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj": {
+    "C:\\Users\\Slimane\\Desktop\\dev\\code SE PDF\\savePdfSE\\savePdfSE.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj",
+        "projectUniqueName": "C:\\Users\\Slimane\\Desktop\\dev\\code SE PDF\\savePdfSE\\savePdfSE.fsproj",
         "projectName": "savePdfSE",
-        "projectPath": "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\savePdfSE.fsproj",
+        "projectPath": "C:\\Users\\Slimane\\Desktop\\dev\\code SE PDF\\savePdfSE\\savePdfSE.fsproj",
         "packagesPath": "C:\\Users\\Slimane\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Slimane\\Desktop\\dev\\F#\\savePdfSE\\obj\\",
+        "outputPath": "C:\\Users\\Slimane\\Desktop\\dev\\code SE PDF\\savePdfSE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

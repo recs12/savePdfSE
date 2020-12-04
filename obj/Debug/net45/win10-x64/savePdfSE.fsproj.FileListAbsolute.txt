@@ -1,4 +1,52 @@
 C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\savePdfSE.exe.config
 C:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.AssemblyInfoInputs.cache
 C:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.AssemblyInfo.fs
-c:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.fsproj.CoreCompileInputs.cache
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.fsprojAssemblyReference.cache
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\savePdfSE.exe
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\savePdfSE.pdb
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\FSharp.Core.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\Interop.SolidEdge.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\SolidEdge.Community.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\System.ValueTuple.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\cs\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\de\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\es\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\fr\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\it\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\ja\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\ko\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\pl\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\pt-BR\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\ru\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\tr\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\bin\Debug\net45\win10-x64\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.fsproj.CopyComplete
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.exe
+C:\Users\Slimane\Desktop\dev\F#\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.pdb
+c:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\savePdfSE.exe.config
+c:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.AssemblyInfoInputs.cache
+c:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.AssemblyInfo.fs
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\savePdfSE.exe
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\savePdfSE.pdb
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\FSharp.Core.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\Interop.SolidEdge.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\SolidEdge.Community.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\System.ValueTuple.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\cs\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\de\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\es\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\fr\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\it\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\ja\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\ko\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\pl\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\pt-BR\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\ru\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\tr\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\bin\Debug\net45\win10-x64\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.fsprojAssemblyReference.cache
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.fsproj.CopyComplete
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.exe
+C:\Users\Slimane\Desktop\dev\code SE PDF\savePdfSE\obj\Debug\net45\win10-x64\savePdfSE.pdb
